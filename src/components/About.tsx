@@ -6,7 +6,7 @@ function About() {
 			className="flex flex-col md:flex-row items-center justify-center "
 			id="about"
 		>
-			<img src="/public/assets/programmer.svg" className="w-3/5 h-auto md:w-1/3" />
+			<img src="/assets/programmer.svg" className="w-3/5 h-auto md:w-1/3" />
 			<AboutItem />
 			<div id="skills"></div>
 		</div>
